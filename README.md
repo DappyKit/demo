@@ -12,9 +12,9 @@ What's really cool is that these online spaces can't be taken away from you by a
 
 ## What We've Built 🏗️
 
-To show you how DappyKit can be used to build social apps, we've put together a fun little project. We've created a Twitter-like app with a twist. You can log in using Metamask if you're already a crypto whizz. But for those new to the crypto scene, we've also incorporated the Meme Wallet, which makes joining the Web3 space a piece of cake!
+To show you how DappyKit can be used to build social apps, we've put together a fun little project. We've created a [Twitter-like](https://github.com/DappyKit/demo-twi) app with a twist. You can log in using Metamask if you're already a crypto whizz. But for those new to the crypto scene, we've also incorporated the [Meme Wallet](https://github.com/DappyKit/meme-wallet), which makes joining the Web3 space a piece of cake!
 
-But wait, there's more! We've baked social connections right into the heart of our app. We've created and thoroughly tested our `SocialConnections` smart contract, which we've launched into the Linea Goerli network. To sweeten the deal, we've automatically connected you with 10 test users. It's all with your approval, of course. The cherry on top? You can interact with it without spending a gas!
+But wait, there's more! We've baked social connections right into the heart of our app. We've created and thoroughly tested our [`SocialConnections`](https://github.com/DappyKit/demo-contracts) smart contract, which we've launched into the [Linea Goerli network](https://explorer.goerli.linea.build/address/0xB174817cc2619a2829e59EE12B0666647C29c855). To sweeten the deal, we've automatically connected you with 10 test users. It's all with your approval, of course. The cherry on top? You can interact with it without spending a gas!
 
 You might be thinking, "But where does my content live?" Well, we've got you covered there, too. We've integrated a [Worldwide File System](https://github.com/FairJournal/file-system) that lets you store your public content and display it in all sorts of ways. One way to display short posts is through a Twitter-like UI, which we've implemented.
 
