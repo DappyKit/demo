@@ -1,8 +1,8 @@
-# DappyKit Hackathon Project 🚀
+# DappyKit Demo Project 🚀
 
 ## What is DappyKit? 🧩
 
-Think of DappyKit like a big box of Lego blocks for making cool online apps where you can chat and play with your friends. But here's the best part: these apps don't belong to some big company – they belong to everyone who uses them! 
+Think of [DappyKit](https://github.com/DappyKit) like a big box of Lego blocks for making cool online apps where you can chat and play with your friends. But here's the best part: these apps don't belong to some big company – they belong to everyone who uses them! 
 
 DappyKit helps you build these apps super easily. It's like having a superpower that lets you create online playgrounds, games, clubs, or even a place where people can help each other by sharing or lending stuff. 
 
